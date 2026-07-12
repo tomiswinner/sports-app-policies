@@ -1,4 +1,4 @@
-# Sports Reaction Practice
+# Dual Task Training
 
 ## 公開ページ
 
